@@ -1,0 +1,8 @@
+{
+  "name": "SPI Physics Study Guide",
+  "description": "A responsive landing page for the EchoMasters SPI Physics study guide, featuring comprehensive exam preparation details for the Sonography Principles & Instrumentation exam.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
